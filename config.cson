@@ -1,0 +1,47 @@
+"*":
+  Hydrogen: {}
+  "atom-beautify":
+    general:
+      _analyticsUserId: "d85d7d0a-ede4-4e76-b707-5e4e65213f82"
+    python:
+      beautify_on_save: true
+  "atom-isort": {}
+  "atom-package-deps":
+    ignored: [
+      "atom-isort"
+    ]
+  "atom-python-run": {}
+  "autocomplete-python":
+    useKite: false
+  core:
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "limited"
+    themes: [
+      "seti-ui"
+      "monokai-seti"
+    ]
+  "custom-folds": {}
+  editor:
+    fontSize: 15
+  "exception-reporting":
+    userId: "4479a24e-b3e0-4087-a30a-e60d9d5168be"
+  fonts:
+    fontFamily: "Inconsolata"
+  "linter-pylama":
+    pylamaVersion: "external"
+  "linter-ui-default":
+    panelHeight: 91
+    showPanel: true
+  minimap:
+    displayMinimapOnLeft: true
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      codeglance: true
+      codeglanceDecorationsZIndex: 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      linter: true
+      linterDecorationsZIndex: 0
+  welcome:
+    showOnStartup: false

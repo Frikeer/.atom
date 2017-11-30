@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
+        "spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\apm-install-dir-117912-114756-1qstyim.tsujev1jor"
+    ]
+  ],
+  "_from": "..\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
+  "_id": "atom-isort@2.5.2",
+  "_inCache": true,
+  "_location": "/atom-isort",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
+    "spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
+  "_shasum": "c2f323d1220536c2418350ed2e49f98752b8243a",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
+  "_where": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\apm-install-dir-117912-114756-1qstyim.tsujev1jor",
+  "bugs": {
+    "url": "https://github.com/lexicalunit/atom-isort/issues"
+  },
+  "dependencies": {
+    "atom-linter": "^10.0.0",
+    "atom-package-deps": "^4.6.0"
+  },
+  "description": "Organize python imports using isort",
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "engines": {
+    "atom": ">=1.4.0 <2.0.0"
+  },
+  "homepage": "https://github.com/lexicalunit/atom-isort#readme",
+  "keywords": [
+    "python",
+    "style",
+    "isort",
+    "formatting",
+    "productivity",
+    "linter"
+  ],
+  "license": "MIT",
+  "main": "./lib/index",
+  "name": "atom-isort",
+  "optionalDependencies": {},
+  "package-deps": [
+    "linter:2.0.0"
+  ],
+  "providedServices": {
+    "linter": {
+      "versions": {
+        "2.0.0": "provideLinter"
+      }
+    }
+  },
+  "readme": "# atom-isort\n\n[![apm package][apm-ver-link]][releases]\n[![travis-ci][travis-ci-badge]][travis-ci]\n[![appveyor][appveyor-badge]][appveyor]\n[![david][david-badge]][david]\n[![download][dl-badge]][apm-pkg-link]\n[![mit][mit-badge]][mit]\n\nAtom.io plugin to format and sort Python imports using [isort][isort].\n\n![Screenshot][screenshot]\n\n## Prerequisites\n\nMake sure you have `isort` and `python` installed. Set the `python` installation\nin the package configuration if necessary. As for installation of `isort`, there\nare good options such as [`conda`][conda] or [`pip`][pip].\n\n## Acknowledgements\n\nHeavily influenced by Benjamin Hedrich's [atom-python-isort][atom-python-isort]\nas well as blacktop's [atom-python-yapf][atom-python-yapf]. This package is a\nmore up to date and actively developed version of `atom-python-isort`.\n\n---\n\n[MIT][mit] © [lexicalunit][author] et [al][contributors]\n\n[mit]:                  http://opensource.org/licenses/MIT\n[author]:               http://github.com/lexicalunit\n[contributors]:         https://github.com/lexicalunit/atom-isort/graphs/contributors\n[releases]:             https://github.com/lexicalunit/atom-isort/releases\n[mit-badge]:            https://img.shields.io/apm/l/atom-isort.svg\n[apm-pkg-link]:         https://atom.io/packages/atom-isort\n[apm-ver-link]:         https://img.shields.io/apm/v/atom-isort.svg\n[dl-badge]:             http://img.shields.io/apm/dm/atom-isort.svg\n[travis-ci-badge]:      https://travis-ci.org/lexicalunit/atom-isort.svg?branch=master\n[travis-ci]:            https://travis-ci.org/lexicalunit/atom-isort\n[appveyor]:             https://ci.appveyor.com/project/lexicalunit/atom-isort?branch=master\n[appveyor-badge]:       https://ci.appveyor.com/api/projects/status/mjla5e3rynka5uro/branch/master?svg=true\n[david-badge]:          https://david-dm.org/lexicalunit/atom-isort.svg\n[david]:                https://david-dm.org/lexicalunit/atom-isort\n\n[screenshot]:           https://raw.githubusercontent.com/lexicalunit/atom-isort/master/example_sorting.gif\n[conda]:                https://conda.io/docs/intro.html\n[pip]:                  https://pip.pypa.io/en/latest/\n[isort]:                https://github.com/timothycrosley/isort\n[atom-python-isort]:    https://github.com/bh/atom-python-isort\n[atom-python-yapf]:     https://github.com/blacktop/atom-python-yapf\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexicalunit/atom-isort.git"
+  },
+  "version": "2.5.2"
+}

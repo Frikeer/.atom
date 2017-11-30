@@ -1,0 +1,38 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle Fast Duplicate'
+      'command': 'fast-duplicate:toggle'
+    },
+    {
+      'label': 'Fast Duplicate: Duplicate Down'
+      'command': 'fast-duplicate:duplicate-down'
+    },
+    {
+      'label': 'Fast Duplicate: Duplicate Up'
+      'command': 'fast-duplicate:duplicate-up'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Fast Duplicate'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'fast-duplicate:toggle'
+        },
+        {
+          'label': 'Duplicate Down'
+          'command': 'fast-duplicate:duplicate-down'
+        },
+        {
+          'label': 'Duplicate Up'
+          'command': 'fast-duplicate:duplicate-up'
+        }
+      ]
+    ]
+  }
+]

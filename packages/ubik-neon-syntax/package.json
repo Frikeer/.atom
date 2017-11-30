@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117102-67476-1qzzzft.yv2qkw3ik9\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117102-67476-1qzzzft.yv2qkw3ik9\\package.tgz",
+        "spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117102-67476-1qzzzft.yv2qkw3ik9\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\apm-install-dir-117102-67476-1pgo4m6.03ool59udi"
+    ]
+  ],
+  "_from": "..\\d-117102-67476-1qzzzft.yv2qkw3ik9\\package.tgz",
+  "_id": "ubik-neon-syntax@1.9.1",
+  "_inCache": true,
+  "_location": "/ubik-neon-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117102-67476-1qzzzft.yv2qkw3ik9\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117102-67476-1qzzzft.yv2qkw3ik9\\package.tgz",
+    "spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117102-67476-1qzzzft.yv2qkw3ik9\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-117102-67476-1qzzzft.yv2qkw3ik9\\package.tgz",
+  "_shasum": "2a7713b817f7f9d4e3e8f5e946d50103d5566da8",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117102-67476-1qzzzft.yv2qkw3ik9\\package.tgz",
+  "_where": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\apm-install-dir-117102-67476-1pgo4m6.03ool59udi",
+  "author": {
+    "name": "Michele 'Ubik' De Simoni"
+  },
+  "bugs": {
+    "url": "https://github.com/mr-ubik/atom-hackerman-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "80's Retrofuturism, cyberpunky, neon lights, bright colors and great code readability all in one syntax featuring also language-specific higlighting!",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  },
+  "homepage": "https://github.com/mr-ubik/atom-hackerman-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "restructuredtext",
+    "markdown",
+    "python",
+    "jinja",
+    "retro",
+    "neon"
+  ],
+  "license": "MIT",
+  "name": "ubik-neon-syntax",
+  "optionalDependencies": {},
+  "readme": "# Become the HACKERMAN!\n![Hackerman, Kung Fury](https://cloud.githubusercontent.com/assets/16547060/22607733/6d0c609a-ea59-11e6-9cc8-2c15ff9db56c.jpg)\n\nInspired by the retrofuturist aestethics of the 80s, Neuromancer and neon lights.\nUbik Neon has a dark background and the syntax has bright colors in order to achieve maximum readability.\nI strongly recommend leaving the dark background unchanged, coupling it with a dark UI-theme.\n(I use ```atom-material-ui``` with pink accent and a black primary)\n\n![Ubik Neon Syntax Screenshot](https://cloud.githubusercontent.com/assets/16547060/21964576/abb2060c-db4e-11e6-9fc0-1ea34f0e076b.png)\n\n\n## Special languages support\nThe following languages have extra customization:\n* __Python:__ since I mostly code in Python that is where my customization show itself the most.\n* __Jinja:__ custom Jinja code styling is supported if you use ```atom-jinja2```.\n* __Markdown:__ custom Markdown styling is supported.\n* __RestructuredText:__ custom RestructuredText code styling is supported if you use ```language-restructuredtext```.\n\n__Contributing:__ If you want a particular syntax for a language either open an issue or fork/PR and I will be happy to implement your code.\n\n\n## Installation\n\n> From the command line: `apm install ubik-neon-syntax`\n\n> From Atom, go to __Settings__ --> __Install__ --> __Themes__ --> type in __ubik-neon-syntax__\n\nIf you have any suggestions, please don't hesitate to let me know.\n\nHappy Coding!\n\n:palm_tree: __Ubik__ :palm_tree:\n\n__PS:__ if you like what you see check my [Spyder Gotham syntax theme](https://github.com/mr-ubik/spyder-ubik-syntax) and my [Atom Gotham Syntax](https://atom.io/themes/ubik-gotham-syntax).\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-ubik/atom-hackerman-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.9.1"
+}
