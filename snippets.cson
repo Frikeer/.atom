@@ -24,3 +24,6 @@
   'docstring':
     'prefix': 'docstring'
     'body': '"""\n${1:Explanation}\n:param name: ${2:type}.\n:return ${3:output}:\n"""\n${4} '
+  'editor-fold':
+    'prefix': '//ef'
+    'body': '// <editor-fold desc="$1">\n// </editor-fold>'

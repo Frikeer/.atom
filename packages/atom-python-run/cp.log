@@ -1,18 +1,10 @@
 INFO: Platform: win32
-INFO: Version Info: v0.2.0
+INFO: Version Info: v0.3.0
 DEBUG: Log Path: C:\Users\oliver.flinck\.atom\packages\atom-python-run\cp.log
-DEBUG: _ast: "['--pause', 'python', 'C:\\Users\\oliver.flinck\\OneDrive - BearingPoint GmbH\\Annat\\Prog\\ML\\exc2-titanic\\exc2.py']"
-DEBUG: Index: "0" Token: "--pause"
-DEBUG: Index: "1" Token: "python"
-DEBUG: Index: "2" Token: "C:\Users\oliver.flinck\OneDrive - BearingPoint GmbH\Annat\Prog\ML\exc2-titanic\exc2.py"
-DEBUG: namespace: [key] "name" [value] "C:\Users\oliver.flinck\.atom\packages\atom-python-run\lib\..\cp\main.py"
-DEBUG: namespace: [key] "pause" [value] "True"
-DEBUG: namespace: [key] "file" [value] "False"
-DEBUG: namespace: [key] "path" [value] ""
-DEBUG: namespace: [key] "repl" [value] "python"
-DEBUG: namespace: [key] "options" [value] "[]"
-DEBUG: namespace: [key] "script" [value] "C:\Users\oliver.flinck\OneDrive - BearingPoint GmbH\Annat\Prog\ML\exc2-titanic\exc2.py"
-DEBUG: namespace: [key] "last" [value] "C:\Users\oliver.flinck\OneDrive - BearingPoint GmbH\Annat\Prog\ML\exc2-titanic\exc2.py"
 DEBUG: command: ['python', 'C:\\Users\\oliver.flinck\\OneDrive - BearingPoint GmbH\\Annat\\Prog\\ML\\exc2-titanic\\exc2.py']
+DEBUG: file: None
+DEBUG: pause: True
+DEBUG: repl: python
+DEBUG: args: ['C:\\Users\\oliver.flinck\\OneDrive - BearingPoint GmbH\\Annat\\Prog\\ML\\exc2-titanic\\exc2.py']
 INFO: return code: 0 (0x0)
-INFO: elapsed time: 1.915000
+INFO: elapsed time: 10.720000

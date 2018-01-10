@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-107704-1v1kruf.2t8wso47vi\\package.tgz",
+        "raw": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-1171125-110356-1c3vlsz.8rma5dbo6r\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-107704-1v1kruf.2t8wso47vi\\package.tgz",
-        "spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-107704-1v1kruf.2t8wso47vi\\package.tgz",
+        "rawSpec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-1171125-110356-1c3vlsz.8rma5dbo6r\\package.tgz",
+        "spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-1171125-110356-1c3vlsz.8rma5dbo6r\\package.tgz",
         "type": "local"
       },
-      "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\apm-install-dir-117912-107704-1a4l9sn.xwi1n3766r"
+      "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\apm-install-dir-1171125-110356-hso462.90sdyam7vi"
     ]
   ],
-  "_from": "..\\d-117912-107704-1v1kruf.2t8wso47vi\\package.tgz",
-  "_id": "autocomplete-python@1.10.3",
+  "_from": "..\\d-1171125-110356-1c3vlsz.8rma5dbo6r\\package.tgz",
+  "_id": "autocomplete-python@1.10.5",
   "_inCache": true,
   "_location": "/autocomplete-python",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-107704-1v1kruf.2t8wso47vi\\package.tgz",
+    "raw": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-1171125-110356-1c3vlsz.8rma5dbo6r\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-107704-1v1kruf.2t8wso47vi\\package.tgz",
-    "spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-107704-1v1kruf.2t8wso47vi\\package.tgz",
+    "rawSpec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-1171125-110356-1c3vlsz.8rma5dbo6r\\package.tgz",
+    "spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-1171125-110356-1c3vlsz.8rma5dbo6r\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-117912-107704-1v1kruf.2t8wso47vi\\package.tgz",
-  "_shasum": "aa27016a3d2165de20ce27c5c523e155e5a7d4f0",
+  "_resolved": "file:..\\d-1171125-110356-1c3vlsz.8rma5dbo6r\\package.tgz",
+  "_shasum": "f9afe0c952324a933e289fb576d6f441f072e06f",
   "_shrinkwrap": null,
-  "_spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-107704-1v1kruf.2t8wso47vi\\package.tgz",
-  "_where": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\apm-install-dir-117912-107704-1a4l9sn.xwi1n3766r",
+  "_spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-1171125-110356-1c3vlsz.8rma5dbo6r\\package.tgz",
+  "_where": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\apm-install-dir-1171125-110356-hso462.90sdyam7vi",
   "bugs": {
     "url": "https://github.com/autocomplete-python/autocomplete-python/issues"
   },
@@ -59,7 +59,7 @@
     "atom-slick": "^2.0.0",
     "atom-space-pen-views": "~2.1.0",
     "fuzzaldrin-plus": "^0.3.1",
-    "kite-installer": "^0.20.4",
+    "kite-installer": "^0.23.2",
     "mixpanel": "^0.5.0",
     "selector-kit": "^0.1",
     "space-pen": "^5.1.2",
@@ -99,5 +99,5 @@
     "type": "git",
     "url": "git+https://github.com/autocomplete-python/autocomplete-python.git"
   },
-  "version": "1.10.3"
+  "version": "1.10.5"
 }

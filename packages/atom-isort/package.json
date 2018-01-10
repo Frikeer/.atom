@@ -2,45 +2,46 @@
   "_args": [
     [
       {
-        "raw": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
+        "raw": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-1171125-110516-1oc3k03.cexywrk9\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
-        "spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
+        "rawSpec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-1171125-110516-1oc3k03.cexywrk9\\package.tgz",
+        "spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-1171125-110516-1oc3k03.cexywrk9\\package.tgz",
         "type": "local"
       },
-      "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\apm-install-dir-117912-114756-1qstyim.tsujev1jor"
+      "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\apm-install-dir-1171125-110516-2iv1zp.gol9wfjemi"
     ]
   ],
-  "_from": "..\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
-  "_id": "atom-isort@2.5.2",
+  "_from": "..\\d-1171125-110516-1oc3k03.cexywrk9\\package.tgz",
+  "_id": "atom-isort@2.5.3",
   "_inCache": true,
   "_location": "/atom-isort",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
+    "raw": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-1171125-110516-1oc3k03.cexywrk9\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
-    "spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
+    "rawSpec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-1171125-110516-1oc3k03.cexywrk9\\package.tgz",
+    "spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-1171125-110516-1oc3k03.cexywrk9\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
-  "_shasum": "c2f323d1220536c2418350ed2e49f98752b8243a",
+  "_resolved": "file:..\\d-1171125-110516-1oc3k03.cexywrk9\\package.tgz",
+  "_shasum": "d1d3514c2e900b41498335c4ad37dbe1c83fef3e",
   "_shrinkwrap": null,
-  "_spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-117912-114756-1snedvc.wyj0s5rk9\\package.tgz",
-  "_where": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\apm-install-dir-117912-114756-1qstyim.tsujev1jor",
+  "_spec": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\d-1171125-110516-1oc3k03.cexywrk9\\package.tgz",
+  "_where": "C:\\Users\\OLIVER~1.FLI\\AppData\\Local\\Temp\\apm-install-dir-1171125-110516-2iv1zp.gol9wfjemi",
   "bugs": {
     "url": "https://github.com/lexicalunit/atom-isort/issues"
   },
   "dependencies": {
     "atom-linter": "^10.0.0",
-    "atom-package-deps": "^4.6.0"
+    "atom-package-deps": "^4.6.0",
+    "fs-plus": "^3.0.1"
   },
   "description": "Organize python imports using isort",
   "devDependencies": {
@@ -83,5 +84,5 @@
     "type": "git",
     "url": "git+https://github.com/lexicalunit/atom-isort.git"
   },
-  "version": "2.5.2"
+  "version": "2.5.3"
 }
