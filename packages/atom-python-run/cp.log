@@ -1,10 +1,8 @@
 INFO: Platform: win32
 INFO: Version Info: v0.3.0
 DEBUG: Log Path: C:\Users\oliver.flinck\.atom\packages\atom-python-run\cp.log
-DEBUG: command: ['python', 'C:\\Users\\oliver.flinck\\OneDrive - BearingPoint GmbH\\Annat\\Prog\\ML\\exc2-titanic\\exc2.py']
 DEBUG: file: None
 DEBUG: pause: True
 DEBUG: repl: python
-DEBUG: args: ['C:\\Users\\oliver.flinck\\OneDrive - BearingPoint GmbH\\Annat\\Prog\\ML\\exc2-titanic\\exc2.py']
-INFO: return code: 0 (0x0)
-INFO: elapsed time: 10.720000
+INFO: return code: 1 (0x1)
+INFO: elapsed time: 1.422557

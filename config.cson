@@ -1,5 +1,7 @@
 "*":
-  Hydrogen: {}
+  Hydrogen:
+    autocomplete: false
+    outputAreaDefault: true
   "atom-beautify":
     general:
       _analyticsUserId: "d85d7d0a-ede4-4e76-b707-5e4e65213f82"
@@ -20,9 +22,9 @@
       "seti-ui"
       "monokai-seti"
     ]
+    uriHandlerRegistration: "always"
   "custom-folds": {}
-  editor:
-    fontSize: 15
+  editor: {}
   "exception-reporting":
     userId: "4479a24e-b3e0-4087-a30a-e60d9d5168be"
   fonts:
